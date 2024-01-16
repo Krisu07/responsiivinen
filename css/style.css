@@ -76,3 +76,9 @@ nav li {
      width: 5em;
      margin-right: var(--general-padding);
 }
+div#container{
+     display: flex;
+     flex-direction: column;
+     margin: var(--general-margin);
+}
+
