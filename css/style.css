@@ -17,3 +17,11 @@
 *,*::before,*::after{
      box-sizing: border-box;
 }
+a{
+     text-decoration: none;
+}
+a:hover{
+     color:var(--accent-color);
+     font-weight: bold;
+}
+
