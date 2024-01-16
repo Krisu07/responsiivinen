@@ -81,4 +81,8 @@ div#container{
      flex-direction: column;
      margin: var(--general-margin);
 }
+aside{
+     padding: var(--general-padding);
+     padding-top: calc(var(--general-padding) * 1.5);
+}
 
