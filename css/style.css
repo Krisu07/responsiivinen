@@ -34,4 +34,9 @@ div#content{
 div#content section{
      display: inherit;
      flex-direction: row;
+     flex-wrap: wrap;
 }
+div#content aside{
+     width: 20vw;
+}
+
