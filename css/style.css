@@ -24,4 +24,14 @@ a:hover{
      color:var(--accent-color);
      font-weight: bold;
 }
-
+div#container{
+     display: flex;
+     flex-direction: column;
+}
+div#content{
+     display: inherit;
+}
+div#content section{
+     display: inherit;
+     flex-direction: row;
+}
