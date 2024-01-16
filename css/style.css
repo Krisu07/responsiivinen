@@ -68,3 +68,11 @@ nav{
      border-bottom: 1px solid var(--dark-foreground-color);
      height: 40px;
 }
+nav ul {
+     padding-left: calc(var(--general-padding) / 2);
+}
+nav li {
+     display: inline-block;
+     width: 5em;
+     margin-right: var(--general-padding);
+}
