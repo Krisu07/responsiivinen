@@ -52,4 +52,10 @@ article div img{
      object-fit: cover;
      object-position: center;
 }
+header{
+     display: inherit;
+     justify-content: center;
+     align-items: center;
+     height: 150px;
+}
 
